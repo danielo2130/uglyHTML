@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    background-color:blue;
+    color: yellow;
+    text-align: center;
+}
+
+h3, p , li {
+    color: white;
+}
+
+.pokemon {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.poke {
+    width:100px;
+    height:100px;
+}
+
+#nice {
+    font-size: 15px;
+}
+
+.Bulbasaur {
+    background-color: lightgreen;
+    padding: 20px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.Charmander {
+    background-color: lightsalmon;
+    padding: 20px;
+    border-radius: 25px;
+    margin-bottom:50px;
+    margin-top: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.Squirtle {
+    background-color: lightskyblue;
+    padding: 20px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#starter {
+
+    border: 5px solid blue;
+    padding: 5px;
+    width: 300px;
+    height: 200px;
+}
+
+footer{
+    color:white;
+}
